@@ -18,6 +18,21 @@ class RoomsController < ApplicationController
     end
   end
 
+  def edit
+    @room=Room.find(params[:id])
+  end
+
+  def update
+     @room=Room.find(params[:id])
+  if @room.update(room_params)
+    #flash[:notice]= "Editado!"
+    redirect_to rooms_path  
+  else
+    #flash[:alert] = "Falló"
+    render :edit
+  end
+  end
+
   protected
     def room_params
       params.require(:room).permit(:title, :description, :beds, :guests, :image_url, :price_per_night)
