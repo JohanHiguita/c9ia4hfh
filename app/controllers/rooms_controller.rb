@@ -10,8 +10,10 @@ class RoomsController < ApplicationController
   def create
     @room = Room.new(room_params)
     if @room.save
+      flash[:notice] = "Post successfully created"
       redirect_to rooms_path
     else
+      flash[:alert] = @room.errors.full_messages.join(", ")
       render :new
     end
   end
