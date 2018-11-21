@@ -1,0 +1,114 @@
+[33mcommit 155636585001ca3ab83af82928487d403992c92f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mrama-editar[m[33m)[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 17:27:44 2018 -0500
+
+    Editar rooms (rama)
+
+[33mcommit fbd9a93e82b5ca9a597439c91d8e31acfb244bb0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 10:10:29 2018 -0500
+
+    agregar campo de precio a las validaciones
+
+[33mcommit dfab647195803d48576301c9109b74d776acbc63[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 09:10:40 2018 -0500
+
+    correción error en el input de price_per_night (decimal)
+
+[33mcommit 2636fb1e57ddd284a5e594db18c3d01e8a6b7e7d[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 09:01:24 2018 -0500
+
+    correción error en el input de price_per_night
+
+[33mcommit 0be3a734207117e5476eba5bc37ede275fd09879[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 08:56:37 2018 -0500
+
+    nueva columna (price_per_night en rooms)
+
+[33mcommit 2243a6d4ca679ba945dc5a7612b6832a7867b63d[m
+Author: Johan Higuita <higuitajohan@gmail.com>
+Date:   Tue Nov 20 08:40:34 2018 -0500
+
+    validaciones y mensajes de error
+
+[33mcommit ba085e07f57f53e65487fa2b28c106ed93ec1a2e[m
+Author: jeferbc <jeffe.bernal@gmail.com>
+Date:   Mon Jun 18 18:35:50 2018 -0500
+
+    remove deprecation and github vulnerabilitie alert
+
+[33mcommit 8e17eeef5d95812978e596a08303afef226b57ce[m
+Author: jeferbc <jeffe.bernal@gmail.com>
+Date:   Tue Mar 27 13:27:29 2018 -0500
+
+    fix vulnerabilities github alert
+
+[33mcommit e71b76a96103ab4950769a942434357a0478fe49[m
+Merge: 0f42687 d838122
+Author: juan267 <j.gomez267@gmail.com>
+Date:   Tue Apr 18 14:24:26 2017 -0500
+
+    fix merge conflicts
+
+[33mcommit 0f42687c5951ee470edf2c6e8257abc58eb01403[m
+Author: juan267 <j.gomez267@gmail.com>
+Date:   Tue Apr 18 14:23:20 2017 -0500
+
+    update rails version
+
+[33mcommit bf0b9794cdb460cab7698e6be6604c8463eb2a92[m
+Author: juan267 <j.gomez267@gmail.com>
+Date:   Sun Jun 19 12:08:22 2016 -0500
+
+    fix gemfile versions
+
+[33mcommit d8381227cf5b717ba4066b4d11d0254608db10d1[m
+Author: juan267 <j.gomez267@gmail.com>
+Date:   Sun Jun 19 12:01:14 2016 -0500
+
+    fix gemfile versions
+
+[33mcommit 2a8a86b67a8fe48aa51efff0876cb626b9a6152f[m
+Author: juan267 <j.gomez267@gmail.com>
+Date:   Thu Jun 16 22:59:20 2016 -0500
+
+    gem updates
+
+[33mcommit 0bc50a950e706c950e8205fc6c70f4e339a335d7[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Tue May 12 15:57:21 2015 -0500
+
+    Add classes to edit and destroy room links
+
+[33mcommit 6bbd14ab5950121f2a504640fa53148da32f02d9[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Sun May 10 15:30:59 2015 -0500
+
+    Add image_url and improve styles
+
+[33mcommit 7439012cf0af904698b8b4151141b3d64aab21e4[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Sun May 10 13:33:32 2015 -0500
+
+    Create views "index" and "new"
+
+[33mcommit 12967c7372aac444c3afa324cf46fad59f2ecac2[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Sun May 10 13:03:38 2015 -0500
+
+    Configure Bootstrap
+
+[33mcommit 2f19e915db674dbd0970ea18f51710ecb6480540[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Sun May 10 13:00:11 2015 -0500
+
+    Create model Room
+
+[33mcommit c23f97aa9aeae58163a373920fee321bb34c2475[m
+Author: German Escobar <german.escobarc@gmail.com>
+Date:   Sun May 10 12:58:29 2015 -0500
+
+    Initial import
